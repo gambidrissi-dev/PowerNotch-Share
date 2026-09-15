@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>CobaltNotch Updates</title>
-    <link>https://github.com/gambidrissi-dev/ULTRANOTCH-Share</link>
-    <description>Mises à jour de CobaltNotch</description>
+    <title>PowerNotch Updates</title>
+    <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
+    <description>Mises à jour de PowerNotch</description>
     <item>
       <title>Version 1.2.1</title>
       <pubDate>Wed, 02 Sep 2026 22:07:03 +0000</pubDate>
