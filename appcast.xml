@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.13.0</title>
+      <description><![CDATA[
+<h3>Liens, pastille de réponse, nouvel agent, dépôt sur un agent, oreilles</h3>
+<p>- Liens : une réserve de favoris à lancer depuis l'encoche (⌃⌥L). On ajoute en collant une adresse, en glissant un lien sur l'île ou d'un clic depuis l'onglet ouvert (Safari, Chrome, Arc, Brave, Edge, Vivaldi). Groupes, recherche, « Tout ouvrir », icône du site prise sur le site lui-même, navigateur au choix dans les Réglages. - Pastille sous l'encoche quand un agent te pose une question : la question et les réponses (1, 2, 3, Entrée, Échap) sans ouvrir l'île. - Nouvel agent depuis la page Agents, dans le dossier de ton choix. - Glisser un fichier sur un agent lui donne son chemin. - Alerte quand un crédit IA passe sous le seuil (notification, seuil réglable). - Presse-papiers : les clés d'API ne sont plus gardées dans l'historique. - Oreilles concaves en haut de l'île, réglables. - Île ouverte plus légère : ~9 % de processeur au lieu de ~15 % (banc d'essai hors écran).</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 14:50:38 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>2.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.13.0/PowerNotch-2.13.0.zip"
+                 sparkle:edSignature="/44u23tuHByJDni685eg3eb7QomeIlSJt7MGSXspBuZw2qcyl6EEiF8mWa8YPBztjz+T4k7NK0lqdOG4fLzjDQ=="
+                 length="2832230"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.12.0</title>
       <description><![CDATA[
 <h3>Home, regard qui suit la souris, clic sur une mascotte</h3>
