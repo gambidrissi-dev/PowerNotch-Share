@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.14.0</title>
+      <description><![CDATA[
+<h3>Fenêtre détachable, épingle et raccourci afficher / masquer</h3>
+<p>- Fenêtre : les mêmes pages que l'île dans une vraie fenêtre redimensionnable, avec une barre latérale colorée. Elle reste tant qu'on ne la ferme pas (⌃⌥W, bouton « fenêtre » de l'île, ou le menu de la barre de menus), s'ouvre sur l'écran de la souris et le bureau actif, et « Retour dans l'île » remet la page dans l'encoche. Les raccourcis (⌃⌥L, ⌃⌥Espace…) pilotent la fenêtre quand elle est ouverte. - Épingle : un bouton dans l'île la garde ouverte, souris ailleurs ou autre app au premier plan. - ⌃⌥N : affiche ou masque l'île ; ouverte ainsi elle est épinglée jusqu'au prochain appui.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 18:38:38 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>2.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.14.0/PowerNotch-2.14.0.zip"
+                 sparkle:edSignature="SulccFmelUrB73I6yUpOVz9DLaHet5f7PJN4saQW7ce7i4ujDcCfOLyi50TvaQULb5UI7JrCYrT5eX2fDgmMBA=="
+                 length="2870467"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.13.1</title>
       <description><![CDATA[
 <h3>L'île ouverte ne consomme plus 11 % de processeur</h3>
