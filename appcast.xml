@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.10.0</title>
+      <description><![CDATA[
+<h3>Réglages : arrondi de l'île, catégorie Services, déclenchement simplifié</h3>
+<p>- Nouveau réglage « Arrondi des coins » (0 à 48 pt) pour l'île ouverte ; la pastille repliée garde son arrondi : elle épouse l'encoche physique. - L'île s'ouvre au clic, le survol ne montre que les agents : retrait de « Ouvrir l'île » (clic / survol) et de « Délai avant ouverture », ainsi que du code d'ouverture au survol. « Délai avant repli » reste. - Nouvelle catégorie « Services » : Notes Apple (dossier par défaut), Agenda (jours affichés, destination par défaut), Messages (canal par défaut, oublier les derniers correspondants), Agents (ailes, durée du sourire), IA-Crédits (services suivis, clé, intervalle d'actualisation). - Le vault regroupe ses deux dossiers sous « Vault (Obsidian) ».</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 02:32:27 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>2.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.10.0/PowerNotch-2.10.0.zip"
+                 sparkle:edSignature="oNWExe4+OdyhrY6UBY0lXLhqVJLIBxF5UdBbz4F0Ya9w+iKg3TAGPucrQiTPyb/FFUuXA6Umw/3gZ5ngXskGCA=="
+                 length="2152289"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.9.0</title>
       <description><![CDATA[
 <h3>Page IA-Crédits : ce qu'il reste sur Claude, OpenRouter et LM Studio</h3>
