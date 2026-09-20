@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.13.1</title>
+      <description><![CDATA[
+<h3>L'île ouverte ne consomme plus 11 % de processeur</h3>
+<p>La lueur de l'île dérivait en boucle (animation infinie) : SwiftUI refaisait la mise en page et AppKit validait la fenêtre à chaque image, soit 11 à 12 % de processeur île ouverte. Les halos sont maintenant fixes : 0,3 % mesuré sur une copie de l'app installée.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 16:42:51 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>2.13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.13.1/PowerNotch-2.13.1.zip"
+                 sparkle:edSignature="fWK0yB5yFukXGueEfTadXPyXBWJwI63wnjAqP/BVknea14yQXswJUUYaE0a85wDdfXMMFmgiH3V8eIKdPBvUDA=="
+                 length="2830534"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.13.0</title>
       <description><![CDATA[
 <h3>Liens, pastille de réponse, nouvel agent, dépôt sur un agent, oreilles</h3>
