@@ -20,21 +20,6 @@
                  type="application/octet-stream" />
     </item>
     <item>
-      <title>Version 2.1.0</title>
-      <description><![CDATA[
-<h3>Capture vers Notes, Rappels et Calendrier</h3>
-<p>Le menu Destination de la capture propose aussi les dossiers Notes (AppleScript), les listes Rappels et les calendriers (EventKit). Un champ date apparaît pour Calendrier (requis) et Rappels (échéance optionnelle). Les listes ne sont lues qu'à la demande, pour ne pas déclencher les demandes d'autorisation à l'ouverture de l'île.</p>
-      ]]></description>
-      <pubDate>Sun, 20 Sep 2026 00:06:09 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.1.0/PowerNotch-2.1.0.zip"
-                 sparkle:edSignature="R2NYgykgAa4dL4ADfdGn/tvoKR6tW7vsV3jGP5M2zlX+QFVb1byNcwrHFeVnPe1UbfRgjx55wnI5TBFt2+htBw=="
-                 length="1652370"
-                 type="application/octet-stream" />
-    </item>
-    <item>
       <title>Version 1.2.1</title>
       <pubDate>Wed, 02 Sep 2026 22:07:03 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
