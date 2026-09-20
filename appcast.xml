@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.12.0</title>
+      <description><![CDATA[
+<h3>Home, regard qui suit la souris, clic sur une mascotte</h3>
+<p>- Nouvel onglet Home (premier onglet, page d'ouverture par défaut) : la mascotte du groupe, un mot d'accueil, trois raccourcis (note, événement, message), l'état des agents, le prochain rendez-vous et le quota Claude. Chaque tuile mène à sa page. Rien n'y déclenche de demande d'autorisation : l'agenda n'est lu que s'il est déjà autorisé. - Les mascottes suivent le curseur du regard, où qu'il soit sur l'écran : yeux, léger penchement du visage, yeux écarquillés à l'approche ; un agent arrêté ne regarde plus, un agent au repos suit à moitié. Regard lissé d'une image à l'autre. - Un clic sur la mascotte de l'encoche repliée ouvre directement la page Agents ; un clic sur le visage d'un agent de la grappe ouvre son détail.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 13:48:06 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>2.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.12.0/PowerNotch-2.12.0.zip"
+                 sparkle:edSignature="C0JSaWnl0EnnHr9IEMMzIW+WSM3UQ+cSJA9SN/wn598oADCfptwJymqvFQSIlRQzmM/KZhdnC5tvLm5kltVWBQ=="
+                 length="2625113"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.11.1</title>
       <description><![CDATA[
 <h3>Zone de clic et de survol élargie autour de l'encoche</h3>
