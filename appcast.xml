@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.8.0</title>
+      <description><![CDATA[
+<h3>Survol : les ailettes ; clic : l'île entière</h3>
+<p>Au survol de l'encoche (120 ms de présence, ou le délai réglé), les ailes des agents apparaissent ; un clic sur l'encoche ou ses ailes déplie l'île (sur la page Agents si l'un d'eux appelle). Nouveau réglage « Ouvrir l'île » : au clic (défaut) ou au survol, comme avant. Ailes : au survol et quand un agent m'appelle (défaut), toujours, ou seulement au survol.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 01:56:09 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>2.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.8.0/PowerNotch-2.8.0.zip"
+                 sparkle:edSignature="ftJrcyZzxARV9OxW3PuH4GSFGPhbeL6GfYxA4zcNmOlYtBgV7ft8cRBz9U7DCU9WejVD6g+SEi+lFh59w8sFDQ=="
+                 length="1968757"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.7.0</title>
       <description><![CDATA[
 <h3>Mascottes animées, et ailes seulement quand un agent appelle</h3>
