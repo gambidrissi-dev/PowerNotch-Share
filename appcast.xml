@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.9.0</title>
+      <description><![CDATA[
+<h3>Page IA-Crédits : ce qu'il reste sur Claude, OpenRouter et LM Studio</h3>
+<p>Une carte par service, toujours le restant (pas le consommé) : - Claude : session (5 h) et semaine, avec la remise à zéro, lus par <code>claude /usage</code> comme le fait Codenotch (MIT, THIRD-PARTY.md) — aucune clé à donner ; - OpenRouter : crédits achetés moins consommation (GET /api/v1/credits, clé de gestion exigée par la doc), repli sur la limite de la clé ; clé dans le Trousseau ; - LM Studio : serveur local connecté ou non, et le modèle. Un service en panne n'empêche pas les autres. Rafraîchi toutes les 5 minutes, au réveil et à l'ouverture. Réglages : services suivis et clé OpenRouter. La barre d'onglets passe en version compacte quand dix onglets ne tiennent plus.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 02:24:05 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.9.0/PowerNotch-2.9.0.zip"
+                 sparkle:edSignature="tQg43z0DIMp1YWNTu4lzv+8xx1bq2GCGLaNvINORpYghbRirfdHk0OPIEahrL62lNN3XdAOaSoPDpXi/n3LqCw=="
+                 length="2123656"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.8.0</title>
       <description><![CDATA[
 <h3>Survol : les ailettes ; clic : l'île entière</h3>
