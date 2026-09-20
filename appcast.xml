@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.5.0</title>
+      <description><![CDATA[
+<h3>Page Agents : piloter Agentique depuis l'encoche</h3>
+<p>Le lien passe par le socket Unix local d'Agentique, sans rien y ajouter : discover panes (agents, états, jetons), capture-pane (écran), send-keys (réponses et prompts). Une mascotte animée par agent dont l'expression suit l'état ; la page montre le groupe, une pastille par agent, et au clic l'écran, des réponses rapides (1 2 3, Entrée, Échap) et un champ pour lui écrire. Testé contre un faux serveur sur un vrai socket Unix.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 01:38:16 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.5.0/PowerNotch-2.5.0.zip"
+                 sparkle:edSignature="qQ0wswDuwsFYE/4jxP1nyH9M9FiC8h/qpdHZ/DNQcsi7vl2nHt2tvN24Rc6Rfxleb/vztA6no6SBxkkzfkWjBw=="
+                 length="1924084"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.4.0</title>
       <description><![CDATA[
 <h3>Page Messages : écrire et envoyer depuis l'encoche</h3>
