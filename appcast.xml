@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.11.1</title>
+      <description><![CDATA[
+<h3>Zone de clic et de survol élargie autour de l'encoche</h3>
+<p>La panel repliée déborde maintenant de l'encoche : une marge transparente de 28 pt de chaque côté et de 17 pt en dessous (réglage « Zone de clic », 0 à 80 pt). Elle reçoit le survol (qui montre les agents) et le clic (qui ouvre l'île). Avant, la zone de clic se limitait à la forme noire de 37 pt de haut et le survol à 18 pt en dessous : les ailes n'apparaissaient presque jamais et il fallait viser l'encoche à la pointe.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 13:26:58 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>2.11.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.11.1/PowerNotch-2.11.1.zip"
+                 sparkle:edSignature="BOiMr2a+uEkBBcXo6EJj5SIPEf71E0UKJlxEqlk+CsvBQN0wSaiSn7Vt8G2yzGdPST+OETrfHOba62KBcI8eAw=="
+                 length="2561335"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.11.0</title>
       <description><![CDATA[
 <h3>Design : Raleway, mouvement en ressort, réglages en verre</h3>
