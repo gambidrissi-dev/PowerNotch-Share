@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.11.0</title>
+      <description><![CDATA[
+<h3>Design : Raleway, mouvement en ressort, réglages en verre</h3>
+<p>Typographie - Raleway est enfin livrée avec l'app (Contents/Resources/Fonts, licence OFL) et enregistrée au lancement ; jusqu'ici l'interface tombait en police système. Chiffres alignés (lnum) : « 53 % » et « 21:47 » ne descendent plus sous la ligne.</p>
+<p>Mouvement (toutes les animations dans <code>Mouvement</code>) - L'île s'ouvre avec une courbe à dépassement (ressort), se referme franchement ; le contenu entre en fondu avec un léger zoom. - Capsule d'onglet qui glisse (matchedGeometryEffect), rebond de l'icône, tic haptique. - La page qui arrive glisse dans le sens du déplacement, avec un flou qui se dissipe. - Cartes, lignes d'agenda et pastilles d'agents arrivent l'une après l'autre. - Chiffres qui défilent (numericText), jauges qui se remplissent avec un ressort. - Lignes qui s'éclairent au survol, boutons qui rebondissent au clic.</p>
+<p>Surfaces - Liseré lumineux sur toutes les cartes ; lueur de la couleur de la page derrière le contenu (MeshGradient sur macOS 15+, halos en dessous).</p>
+<p>Réglages - Menus, pas +/−, champs, boutons et interrupteurs remplacent les contrôles natifs. - « Sourire après une tâche » : pas de 1 s (l'ancien pas partait de 5 s, la valeur par défaut 12 n'y tombait pas et le curseur se calait à 5 s).</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 13:06:57 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>2.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.11.0/PowerNotch-2.11.0.zip"
+                 sparkle:edSignature="GEdDi8wo5rXXMCAEEyyUqdvWohw4E4X0/7M5LYiZRky9xnt9nygXRnmi59jaRsls8esoBt2rw9lIGeQxFXJfDQ=="
+                 length="2558588"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.10.0</title>
       <description><![CDATA[
 <h3>Réglages : arrondi de l'île, catégorie Services, déclenchement simplifié</h3>
