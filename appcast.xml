@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.6.1</title>
+      <description><![CDATA[
+<h3>Ailes de l'encoche : tes agents Agentique toujours visibles</h3>
+<p>Repliée, la pastille s'élargit de deux ailes quand des agents tournent : à gauche la mascotte du groupe (elle réagit au plus urgent : le ? jaune quand un agent attend), à droite une grappe de visages, un par agent, cerclé de jaune s'il attend. Un agent qui vient de finir sourit douze secondes (yeux en arc, coche verte). Réglage pour les masquer.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 01:42:20 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>2.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.6.1/PowerNotch-2.6.1.zip"
+                 sparkle:edSignature="KzTtWb6Y47o3K/ROSi2ZW6PrlLIVB2i0+EdSSULqVidxBkQ2iJA/8aNu6+sTTNyVTDcBYcrgkNoZCOLm+XW5AA=="
+                 length="1950110"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.6.0</title>
       <description><![CDATA[
 <h3>Ailes de l'encoche : tes agents Agentique toujours visibles</h3>
