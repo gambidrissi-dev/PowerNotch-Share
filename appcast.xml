@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.4.0</title>
+      <description><![CDATA[
+<h3>Page Messages : écrire et envoyer depuis l'encoche</h3>
+<p>Destinataire cherché dans les Contacts (ou tapé), trois canaux : - Messages : envoi réel par AppleScript (iMessage, repli SMS), ⌘↩ ou bouton ; - WhatsApp : conversation wa.me préremplie (pas d'API d'envoi officielle) ; - Mail : brouillon prérempli. Derniers correspondants mémorisés. Mail et Messages quittent la page Vault, qui redevient purement Obsidian.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 01:27:04 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.4.0/PowerNotch-2.4.0.zip"
+                 sparkle:edSignature="ZN4MPAfGdf2WB8PUkeZQrlCxnH1vg8PJQGVPeRoedbxPJ1QzQqKCKS4upKow9+xaG61H4fxZ6Cl+eqlT7P63CQ=="
+                 length="1806744"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.3.0</title>
       <description><![CDATA[
 <h3>Pages Vault, Notes Apple et Agenda</h3>
