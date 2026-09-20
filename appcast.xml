@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.15.0</title>
+      <description><![CDATA[
+<h3>Éditeur de texte riche pour Notes et formulaire d'événement complet</h3>
+<p>- Notes Apple : gras, italique, souligné (⌘B ⌘I ⌘U), styles Titre / Titre de section / Sous-titre / Corps (les styles de Notes : elle n'a pas de tailles libres), listes à puces et numérotées, titre séparé. Le brouillon est gardé en markdown ; la note part en HTML que Notes met en forme (vérifié sur la vraie app). Le collage arrive en texte brut. - Agenda : durée, journée entière, lieu, alerte, répétition, et notes (dans la fenêtre). Une date écrite dans le titre (« Dentiste lundi 14h », « Réunion vendredi de 10h à 11h30 ») est comprise et proposée ; un clic la met dans le formulaire et l'enlève du titre.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 19:23:18 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>2.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.15.0/PowerNotch-2.15.0.zip"
+                 sparkle:edSignature="ZjDOq24YSsqV9T7VT9yD9tw/OPBoGCAZ6Hs8L5hw5/DHZlvgxWQaVvcddUjJBiwpNdxuIfuHs32BKhqgC5EqDg=="
+                 length="2969607"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.14.0</title>
       <description><![CDATA[
 <h3>Fenêtre détachable, épingle et raccourci afficher / masquer</h3>
