@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.3.0</title>
+      <description><![CDATA[
+<h3>Pages Vault, Notes Apple et Agenda</h3>
+<p>- Vault : la page de capture vers Obsidian, allégée (Mail et Messages y restent en attendant la page Messages). - Notes Apple : écrire dans un dossier de Notes et retrouver les dernières notes du dossier, un clic les ouvre. - Agenda : événements d'aujourd'hui et de demain (EventKit), prochain événement en tête, ajout d'un événement ou d'un rappel avec sa date.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 01:18:57 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.3.0/PowerNotch-2.3.0.zip"
+                 sparkle:edSignature="JrOnOh7HE6beJIu7AdK13zDGSadr344IzRP1t3i4qRG35Ma/KkfMgCjG786YIFTWC/lFJqbPgjGdUsqi2KF1AQ=="
+                 length="1757427"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.2.0</title>
       <description><![CDATA[
 <h3>Capture vers Mail et Messages</h3>
