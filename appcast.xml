@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.2.0</title>
+      <description><![CDATA[
+<h3>Capture vers Mail et Messages</h3>
+<p>Deux destinations de plus, sans autorisation à demander : un brouillon Mail (mailto:) et une conversation Messages (sms:), préremplis. Rien ne part tout seul, il reste le dernier clic dans l'app. Un champ destinataire s'affiche, facultatif pour Mail, obligatoire pour Messages.</p>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 00:30:18 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.2.0/PowerNotch-2.2.0.zip"
+                 sparkle:edSignature="ViEAtER8gHZFkmANEpswgaGTKEFO4B4jYtHB5f0+nLmE/SNiaoy8pNGIrylXR/YdCqp07i1cBbWTYwN+6jLRAg=="
+                 length="1659553"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.1.1</title>
       <description><![CDATA[
 <h3>make-app : respecte le BUILD imposé par publier</h3>
