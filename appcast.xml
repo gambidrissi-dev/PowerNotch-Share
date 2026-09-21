@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.16.1</title>
+      <description><![CDATA[
+<h3>Redimensionnement de Home fiable : l'île ne se replie plus, poignées de bord, ordre respecté</h3>
+<p>- L'île reste ouverte pendant la personnalisation de Home. Elle se repliait au bout de 100 ms dès qu'on tirait un coin vers l'extérieur, ce qui annulait tout agrandissement. - Trois poignées par widget : le coin (largeur et hauteur), le bord droit (largeur) et le bord bas (hauteur), avec des zones de prise plus grandes. - Les widgets gardent l'ordre de la liste : un widget trop large ne fait plus remonter les suivants devant lui, et on ne peut plus le tirer plus large que ce qu'il reste de sa rangée. - En édition, toutes les rangées tiennent à l'écran : un widget agrandi ne disparaît plus sous le pli.</p>
+      ]]></description>
+      <pubDate>Mon, 21 Sep 2026 22:29:25 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>2.16.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.16.1/PowerNotch-2.16.1.zip"
+                 sparkle:edSignature="a4Zq08yD2twsRh5PbqzRDaX+SB7mGpsr7/gllB8vNCBBzPTVU7xc/NZKbkhxX75z36/1PwBFlzjkWq/QUhKxCA=="
+                 length="3163887"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.16.0</title>
       <description><![CDATA[
 <h3>Onglets au choix et page Home à widgets redimensionnables</h3>
