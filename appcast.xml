@@ -5,6 +5,22 @@
     <link>https://github.com/gambidrissi-dev/PowerNotch-Share</link>
     <description>Mises à jour de PowerNotch</description>
     <item>
+      <title>Version 2.18.0</title>
+      <description><![CDATA[
+<h3>Widgets Home : toute la tuile se déplace, le bord entier se voit pour redimensionner</h3>
+<p>- Déplacer : on ne pouvait attraper un widget que par sa petite icône en haut à gauche — essayer de tirer le widget lui-même, ce que tout le monde fait en premier, ne faisait rien. Toute la tuile se prend maintenant, et la case visée s'éclaire pendant qu'on la survole avant de la lâcher. - Redimensionner : le bord répondait déjà sur toute sa longueur, mais seul un petit trait au milieu le montrait. Le bord entier s'éclaire maintenant, et un badge affiche la taille visée pendant le geste.</p>
+<p>Non vérifié à l'écran cette fois (voir la note de session : des réglages d'île avaient fuité d'une session de test vers l'app réelle, priorité à leur restauration).</p>
+      ]]></description>
+      <pubDate>Tue, 22 Sep 2026 21:16:23 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>2.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/PowerNotch-Share/releases/download/v2.18.0/PowerNotch-2.18.0.zip"
+                 sparkle:edSignature="o96wjfsaeQkAIt+qRCpSLQLqLCyR5WjxU28snnsfK+3UvqZxqeSIa6Gc66EEnkRbrjV8x1yBucSRWEZM2rWRBQ=="
+                 length="3186106"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.17.0</title>
       <description><![CDATA[
 <h3>Widget Home « Dossier suivi », et fin du chevauchement en mode édition</h3>
